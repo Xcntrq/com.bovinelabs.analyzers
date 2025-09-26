@@ -3,11 +3,9 @@
 A package to easily add Roslyn Analyzers to Unity projects.
 
 ### Install
-Add the package to your manifest.json file located under the Packages folder. 
 
 ```
-  "dependencies": {
-    "com.bovinelabs.analyzers": "https://github.com/tertle/com.bovinelabs.analyzers.git",
+https://github.com/Xcntrq/com.bovinelabs.analyzers.git
 ```
 
 Alternatively download into the Packages/com.bovinelabs.analyzers folder. Please note importing to a directory outside of the Packages folder is not supported.
